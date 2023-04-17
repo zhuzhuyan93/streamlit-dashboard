@@ -1,0 +1,11 @@
+#[theme]
+#base="light"
+#primaryColor="#e16259"
+##[theme]
+##primaryColor="#f21111"
+##backgroundColor="#0e1117"
+##secondaryBackgroundColor="#31333F"
+#textColor="#fafafa"
+#font="sans serif"
+
+
